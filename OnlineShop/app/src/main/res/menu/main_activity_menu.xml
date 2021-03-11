@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/myBasket"
+        android:title="My basket" />
+    <item android:id="@+id/credentials"
+        android:title="My credentials" />
+    <item android:id="@+id/exit"
+        android:title="Exit"/>
+</menu>
